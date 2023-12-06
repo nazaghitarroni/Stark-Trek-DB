@@ -1,4 +1,4 @@
-Proyecto personal, creacion de una base de datos basada en Stark Trek con sus respectivas tablas, procedimientos almacenados, vistas y normalizada hasta nivel 3.
+Proyecto personal. Creacion de una base de datos basada en Stark Trek con sus respectivas tablas, procedimientos almacenados, vistas y normalizada hasta nivel 3.
 
 -Una vez con la query en tu programa, ejecuta los comandos en este orden:
 
